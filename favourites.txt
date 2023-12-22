@@ -2,3 +2,7 @@ paneer tikka
 chicken
 eggs
 kabab
+tiger 3
+pathan
+salaar
+jawaan
